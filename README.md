@@ -1,8 +1,5 @@
 # SVPHM AMS Web App
 
-Repository for hosting the SVPHM AMS web app.
-
-## Introduction
 Intended for use as an **iOS** web app, while waiting on the creation of an SVHA Apple Developer Account. For Android users, the app can be downloaded from the Google Play Store [here](https://play.google.com/store/apps/details?id=com.adrianwong.svphm.ams_app).
 
 ## Usage
