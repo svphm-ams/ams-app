@@ -10,4 +10,6 @@ To use the app as intended:
 * Follow the prompt to add the app to the home screen
 * Open the app from the home screen
 
-The app can still be accessed from the browser, but has some unintended behaviour due to Apple permanently enabling pinch-to-zoom for accessibility reasons even when the viewport setting has been set to `user-scalable=no`. See: [What's New in Safari 10.0](https://developer.apple.com/library/content/releasenotes/General/WhatsNewInSafari/Articles/Safari_10_0.html).
+## Known Issues
+* The app can still be accessed from the browser, but has some unintended behaviour due to Apple permanently enabling pinch-to-zoom for accessibility reasons even when the viewport setting has been set to `user-scalable=no`. See: [What's New in Safari 10.0](https://developer.apple.com/library/content/releasenotes/General/WhatsNewInSafari/Articles/Safari_10_0.html).
+* The app is designed to be viewed in portrait mode. However, beyond performing some ridiculous workarounds, there appears to be no easy way to lock its orientation in Safari. See: [here](https://stackoverflow.com/questions/5298467/prevent-orientation-change-in-ios-safari) and [here](https://developer.mozilla.org/en-US/docs/Web/API/Screen/lockOrientation#Browser_compatibility).
