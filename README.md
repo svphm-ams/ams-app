@@ -6,7 +6,7 @@ Intended for use as an **iOS** web app, while waiting on the creation of an SVHA
 To use the app as intended:
 * Navigate to [https://svphm-ams.github.io/ams-app/](https://svphm-ams.github.io/ams-app/) in Safari
 * Click on the "Share" <img src="share-button.png"> button
-* Click on the "Add to Home Screen" button
+* Click on the "Add to Home Screen" <img src="add-to-home-screen.png"> button
 * Follow the prompt to add the app to the home screen
 * Open the app from the home screen
 
